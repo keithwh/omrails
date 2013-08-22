@@ -9,6 +9,8 @@ end
 
 group :development, :test do
   gem 'sqlite3'
+  gem 'turbolinks'
+  gem 'jbuilder', '~> 1.2'
 end
 
 group :assets do
